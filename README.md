@@ -23,5 +23,8 @@ Given the above, if you chose one village at random to be told only its church s
 
 sample input and output:
 
-acceptable( 169, 247, 358 ).
+Input:
+acceptable( 169, 247, 358 )
+
+Output:
 true
