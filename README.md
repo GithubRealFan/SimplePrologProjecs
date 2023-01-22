@@ -8,11 +8,14 @@ Every day, The Times newspaper publishes a Suko puzzle. Readers are challenged t
 
 sample input and output:
 
+Input:
 suko( 15, 14, 26, 23
 , [0,1,2,3], 16
 , [4,6,7], 17
 , [5,8], 12
 , GRID ).
+
+Output:
 GRID = [1, 2, 4, 9, 3, 5, 6, 8, 7]
 
 # The Bearings’ Trait
