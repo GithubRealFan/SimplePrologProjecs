@@ -1,5 +1,6 @@
 # Two Simple Prolog Project.
 
+
 # Suko
 
 Every day, The Times newspaper publishes a Suko puzzle. Readers are challenged to place the digits 1 to 9 in the cells of a grid so that numbers in four white circles are the sums of the digits in the cells surrounding them, and the numbers in the three coloured circles are the sums of the digits in the cells of the same colour. Suko 3566 of Thursday 12th August 2022, and its solution are shown in Figure 1.
