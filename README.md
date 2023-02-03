@@ -1,5 +1,5 @@
 # Two Simple Prolog Project.
-
+ 
 
 # Suko
 
