@@ -1,4 +1,4 @@
-# Two Simple Prolog Project.
+# Two Simple Prolog Projects.
  
 
 # Suko
